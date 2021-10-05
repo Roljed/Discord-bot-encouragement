@@ -2,13 +2,21 @@
 Discord bot full with encouragements.
 
 ## Setup
+
 ### Sites
+
 **Replit**
+
 Online IDE and server.
+
 https://replit.com
 
+
+
 **Up Time Robot**
+
 Ping and monitor a server.
+
 https://uptimerobot.com
 
 ---
